@@ -28,7 +28,7 @@ The initial stage involves converting raw pixel data from the camera into discre
 <div align="center">
   <img 
     width="500" 
-    src="https://github.com/user-attachments/assets/52f33888-1389-4fb0-b0d9-dea226b71681" 
+    src="https://github.com/user-attachments/assets/6d48cf11-04b3-45e2-b528-bf23ade43f43" 
     alt="fig 1" 
     style="display: block; margin: 0 auto; max-width: 100%; height: auto;"
   />
@@ -39,7 +39,7 @@ The initial stage involves converting raw pixel data from the camera into discre
 <div align="center">
   <img 
     width="700" 
-    src="https://github.com/user-attachments/assets/0ce1d520-f7be-4b45-b122-4a40870e35fd" 
+    src="https://github.com/user-attachments/assets/269317ac-5ad8-40a4-9b8f-994573770c9b" 
     alt="fig 2" 
     style="display: block; margin: 0 auto; max-width: 100%; height: auto;"
   />
@@ -48,7 +48,7 @@ The initial stage involves converting raw pixel data from the camera into discre
 <div align="center">
   <img 
     width="580" 
-    src="https://github.com/user-attachments/assets/6f6c8a68-7dfe-44b9-a63a-96a28ea55c5d" 
+    src="https://github.com/user-attachments/assets/fd740aec-aae6-4f38-bb9a-b39ec345fd1f" 
     alt="fig 3" 
     style="display: block; margin: 0 auto; max-width: 100%; height: auto;"
   />
@@ -59,7 +59,7 @@ The initial stage involves converting raw pixel data from the camera into discre
 <div align="center">
   <img 
     width="610" 
-    src="https://github.com/user-attachments/assets/ccc4a385-f0c7-4054-a4e5-9fa107265f99" 
+    src="https://github.com/user-attachments/assets/c609ff3f-ab06-4461-8654-67058d5d6992" 
     alt="fig 4" 
     style="display: block; margin: 0 auto; max-width: 100%; height: auto;"
   />
